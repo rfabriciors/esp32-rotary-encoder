@@ -1,6 +1,6 @@
 # esp32-rotary-encoder
 
-[![Platform: ESP-IDF](https://img.shields.io/badge/ESP--IDF-v3.0%2B-blue.svg)](https://docs.espressif.com/projects/esp-idf/en/stable/get-started/)
+[![Platform: ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.4%2B-blue.svg)](https://docs.espressif.com/projects/esp-idf/en/stable/get-started/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3+-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Introduction
